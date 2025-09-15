@@ -1,6 +1,6 @@
-!(Vowel Spellchecker)[https://leetcode.com/problems/vowel-spellchecker/?envType=daily-question&envId=2025-09-14]
+![Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/?envType=daily-question&envId=2025-09-14)
 
-`
+```
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -48,4 +48,4 @@ private:
         return c=='a'||c=='e'||c=='i'||c=='o'||c=='u';
     }
 };
-`
+```
